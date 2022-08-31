@@ -34,6 +34,8 @@ main h2 {
 
 .my-style {
     color: green;
+    background-color: orange;
+    padding: 3px
 }
 
 
